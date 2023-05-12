@@ -1,0 +1,43 @@
+nav {
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li {
+    display: inline-block;
+    align-items: center;
+    margin: 10px 55px;
+
+
+}
+
+.quickorder {
+    border: 1px solid black;
+    margin-top: 30px;
+    height: 40px;
+    width: 89%;
+    margin-left: 6pc;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgba(128, 128, 128, 0.18);
+
+}
+
+h4 {
+    margin-left: 5px;
+    margin-top: 8px;
+    color: black;
+}
+
+h4 button {
+    float: right;
+    margin-top: -8px;
+    padding: 11px;
+}
+
+#para {
+    margin-left: 6pc;
+    margin-top: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: small;
+}
